@@ -1,0 +1,12 @@
+{
+  "address1": "1100 Congress Ave",
+  "address2": "unit B",
+  "city": "Austin",
+  "state": "TX",
+  "zipCode": "78701",
+  "phone": "512-555-1212",
+  "email": "name@example.com",
+  "dobMonth": "1",
+  "dobDay": "2",
+  "dobYear": "2000"
+}
